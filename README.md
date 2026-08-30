@@ -18,7 +18,7 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 
 ---
 
-### 🎓 Education
+### 🎓 Education  
 
 <table>
   <tr>
@@ -209,9 +209,10 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumodeep084&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumodeep084&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumodeep084&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumodeep084&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumodeep084&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumodeep084&theme=2077&utcOffset=8" />
 
 </div>
 
@@ -225,7 +226,9 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soumodeep_Dutta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodeep084)
 
-<br/>
+<br/><br/>
+
+📧 **Email:** soumodeepdutta0509@gmail.com
 
 ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
