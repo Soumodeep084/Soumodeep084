@@ -22,13 +22,13 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 
 <table>
   <tr>
-    <td width="75%">
+    <td width="65%">
       <b>St. Francis Institute of Technology (SFIT), University of Mumbai</b><br/>
       <i>Bachelor of Engineering in Computer Engineering</i><br/>
       • Honors: <b>Data Science</b><br/>
       • CGPA: <b>9.65 / 10</b>
     </td>
-    <td width="25%" align="right">
+    <td width="35%" align="right">
       <code>Aug 2023 – Present</code>
     </td>
   </tr>
