@@ -3,7 +3,7 @@
 # 💫 Soumodeep Dutta
 
 <a href="https://github.com/Soumodeep084">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Soumodeep+Dutta+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;Exploring+AI%2C+ML+%26+Data+Science+%F0%9F%A7%A0;Building+Practical+%26+AI-Powered+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi%2C%20I'm%20Soumodeep%20Dutta%20%F0%9F%91%8B;Computer%20Engineering%20Student%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;Exploring%20AI%2C%20ML%20%26%20Data%20Science%20%F0%9F%A7%A0;Building%20Practical%20%26%20AI-Powered%20Projects%20%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 </div>
 
@@ -18,22 +18,22 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 
 ---
 
-### 🎓 Education  
-
+### 🎓 Education    
+  
 <table>
   <tr>
-    <td width="65%">
+    <td width="75%">
       <b>St. Francis Institute of Technology (SFIT), University of Mumbai</b><br/>
       <i>Bachelor of Engineering in Computer Engineering</i><br/>
       • Honors: <b>Data Science</b><br/>
       • CGPA: <b>9.65 / 10</b>
     </td>
-    <td width="35%" align="right">
+    <td width="25%" align="right">
       <code>Aug 2023 – Present</code>
     </td>
   </tr>
 </table>
-
+  
 ---
 
 ### 🛠️ Technical Skills
@@ -69,17 +69,20 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 
 #### 🧠 AI, Machine Learning & Data Science
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" alt="Keras" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,scikitlearn&theme=dark" alt="AI/ML" />
+    <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" alt="Backend and DB" />
   </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Generative%20AI%20%26%20RAG-4A154B?style=flat-square" alt="GenAI & RAG" />
-  <img src="https://img.shields.io/badge/LangChain-454B?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-4A1EDB?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20%26%20RAG-4A154B?style=flat-square" alt="Generative AI & RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
 </p>
 
 #### 🧰 Tools & Platforms
