@@ -22,18 +22,18 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
   
 <table>
   <tr>
-    <td width="75%">
+    <td>
       <b>St. Francis Institute of Technology (SFIT), University of Mumbai</b><br/>
       <i>Bachelor of Engineering in Computer Engineering</i><br/>
       • Honors: <b>Data Science</b><br/>
       • CGPA: <b>9.65 / 10</b>
     </td>
-    <td width="25%" align="right">
+    <td>
       <code>Aug 2023 – Present</code>
     </td>
   </tr>
 </table>
-  
+
 ---
 
 ### 🛠️ Technical Skills
@@ -86,14 +86,13 @@ I enjoy building **full-stack web applications, AI/ML solutions, and data-driven
 </p>
 
 #### 🧰 Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,supabase,streamlit&theme=dark" alt="Tools" />
+<p align="center"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=git,github,supabase" alt="Tools" /> 
   </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
-  <img src="https://img.shields.io/badge/Convex-F04D23?style=flat-square&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/Chainlit-FF6C37?style=flat-square&logoColor=white" alt="Chainlit" />
+  <br />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" /> 
+  <img src="https://img.shields.io/badge/Convex-F04D23?style=flat-square&logoColor=white" alt="Convex" /> 
 </p>
 
 </div>
